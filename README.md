@@ -59,7 +59,7 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 **Visualization Used:** Bar Chart  
 - Higher discounts were strongly associated with **negative profits**, showing the importance of discount strategy.  
 
-![Profit by Discount](Sales_by_profit 2024.png)  
+![Profit by Discount](Sales_by_profit_2024.png)  
 
 ---
 
@@ -69,8 +69,7 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 - Most points cluster close to **low sales & low profit**, but higher sales transactions also show profit variability.  
 - The upward trendline indicates that **higher sales generally drive higher profit**, though some outliers show **losses even with high sales** (likely due to heavy discounts or high costs).  
 
-![Scatterplot: Sales vs Profit](scatterplot_sales_profit (2).png)  
-
+![Scatterplot: Sales vs Profit](scatterplot_sales_profit.png)
 
 
 ## 🔑 Overall Insights  
