@@ -62,7 +62,7 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 - Most points cluster close to **low sales & low profit**, but higher sales transactions also show profit variability.  
 - The upward trendline indicates that **higher sales generally drive higher profit**, though some outliers show **losses even with high sales** (likely due to heavy discounts or high costs).  
 
-![Scatterplot: Sales vs Profit](scatterplot_sales_profit.png)
+![Scatterplot: Sales vs Profit](scatterplot_sales_profit%20%282%29.png)
 
 
 ## 🔑 Overall Insights  
