@@ -44,8 +44,7 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 - **Office Supplies** maintained steady profit shares (8–16%).  
 - **Furniture** lagged behind in profitability.  
 
-![Profit by Year & Category](profit_by_year_category.png)  
-
+![Profit by Year & Category](profit%20by%20year_category.png)
 ---
 
 ### 4. Sales & Profit Analysis Overview  
@@ -55,13 +54,7 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 ![Sales & Profit Analysis Overview](sales_profit_analysis_overview.png)  
 
 
-### 5. Profit by Discount  
-**Visualization Used:** Bar Chart  
-- Higher discounts were strongly associated with **negative profits**, showing the importance of discount strategy.  
- 
-![Profit by Discount](Sales_by_profit_2024.png)
 
----
 
 ### 6. Scatterplot: Sales vs Profit  
 **Visualization Used:** Scatterplot  
