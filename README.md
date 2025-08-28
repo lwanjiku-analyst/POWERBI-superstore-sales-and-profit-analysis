@@ -56,13 +56,15 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 
 
 
-### 6. Scatterplot: Sales vs Profit  
+### 5. Scatterplot: Sales vs Profit  
 **Visualization Used:** Scatterplot  
 - Each dot represents a sales transaction for **Furniture**.  
 - Most points cluster close to **low sales & low profit**, but higher sales transactions also show profit variability.  
 - The upward trendline indicates that **higher sales generally drive higher profit**, though some outliers show **losses even with high sales** (likely due to heavy discounts or high costs).  
 
 ![Scatterplot: Sales vs Profit](scatterplot_sales_profit%20%282%29.png)
+
+
 
 
 ## 🔑 Overall Insights  
