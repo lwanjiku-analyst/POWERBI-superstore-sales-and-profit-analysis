@@ -58,8 +58,8 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 ### 5. Profit by Discount  
 **Visualization Used:** Bar Chart  
 - Higher discounts were strongly associated with **negative profits**, showing the importance of discount strategy.  
-
-![Profit by Discount](Sales_by_profit_2024.png)  
+ 
+![Profit by Discount](Sales_by_profit_2024.png)
 
 ---
 
