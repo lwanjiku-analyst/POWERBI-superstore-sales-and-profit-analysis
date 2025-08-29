@@ -41,7 +41,7 @@ Sales grew steadily from **$226K → $358K** over four years. Profit **fell in 2
 
 **Visualization Used:** Stacked Bar Chart 
 
-**How did the sales contribution of each category (Furniture, Office Supplies, Technology) change between 2021 and 2024**
+**How did the sales contribution of each category (Furniture, Office Supplies, Technology) change between 2021 and 2024?**
 
 ![% of sales by Category](sales_by_category.png)
 
@@ -63,7 +63,9 @@ Sales grew steadily from **$226K → $358K** over four years. Profit **fell in 2
 ---
 
 ## 4) Sales & Profit Analysis Overview  
-**Visualization Used:** Line Chart + Stacked Bar Charts  
+**Visualization Used:** Line Chart + Stacked Bar Charts
+
+**How have overall sales and profits grown year by year, and which product categories contributed the most to sales and profit percentages over time?**
 
 - **Sales** grew steadily from **$225K in 2021** to **$358K in 2024**, while **profit** also rose from **$20K** to **$37K**.  
 - **Furniture** consistently contributed the largest share of sales (12–16%), with growth in both sales and profit.  
@@ -85,8 +87,6 @@ Sales grew steadily from **$226K → $358K** over four years. Profit **fell in 2
 - Each dot represents a sales transaction for **Furniture**.  
 - Most points cluster close to **low sales & low profit**, but higher sales transactions also show profit variability.  
 - The upward trendline indicates that **higher sales generally drive higher profit**, though some outliers show **losses even with high sales** (likely due to heavy discounts or high costs).  
-
-
 
 
 
