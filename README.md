@@ -75,11 +75,13 @@ Sales grew steadily from **$226K → $358K** over four years. Profit **fell in 2
 
 ### 5. Scatterplot: Sales vs Profit  
 **Visualization Used:** Scatterplot  
+**What is the relationship between sales and profit for the Furniture category?**
+ ![Scatterplot: Sales vs Profit](scatterplot_sales_profit%20%282%29.png)
+
 - Each dot represents a sales transaction for **Furniture**.  
 - Most points cluster close to **low sales & low profit**, but higher sales transactions also show profit variability.  
 - The upward trendline indicates that **higher sales generally drive higher profit**, though some outliers show **losses even with high sales** (likely due to heavy discounts or high costs).  
 
-![Scatterplot: Sales vs Profit](scatterplot_sales_profit%20%282%29.png)
 
 
 
