@@ -58,9 +58,15 @@ Sales grew steadily from **$226K → $358K** over four years. Profit **fell in 2
 ![Profit by Year & Category](profit%20by%20year_category.png)
 ---
 
-### 4. Sales & Profit Analysis Overview  
-**Visualization Used:**   
-- Comprehensive view of **sales and profit growth**, category-level contributions, and overall profitability trends.  
+## 4) Sales & Profit Analysis Overview  
+**Visualization Used:** Line Chart + Stacked Bar Charts  
+
+- **Sales** grew steadily from **$225K in 2021** to **$358K in 2024**, while **profit** also rose from **$20K** to **$37K**.  
+- **Furniture** consistently contributed the largest share of sales (12–16%), with growth in both sales and profit.  
+- **Office Supplies** showed stable profit share (~16%) but declining sales share (from 10% to 4%).  
+- **Technology** maintained modest sales share (3–5%) but contributed **up to 14% of profit**, showing higher margins despite lower sales volume.  
+
+**Insight:** Overall growth is positive, but **Furniture drives sales volume**, while **Technology delivers strong profitability relative to sales**.
 
 ![Sales & Profit Analysis Overview](sales_profit_analysis_overview.png)  
 
