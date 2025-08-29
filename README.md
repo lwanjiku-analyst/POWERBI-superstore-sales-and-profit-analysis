@@ -18,16 +18,22 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 
 ---
 
-## 📊 Key Visuals & Findings  
+##  Key Visuals & Findings  
 
 ### 1. Sales & Profit by Year  
 **Visualization Used:** Line Chart  
-- Sales increased from **$225K in 2021** to **$357K in 2024**.  
-- Profit improved significantly, reaching **$37K in 2024**.  
 
-![Sales & Profit by Year](sales_profit_year.png)  
+![Sales & Profit by Year](sales_profit_year.png)
 
----
+**What it shows (2021 → 2024):**
+- **2021:** Sales **$225,942** | Profit **$19,987**
+- **2022:** Sales **$234,566** | Profit **$16,035**  *(profit dip)*
+- **2023:** Sales **$302,278** | Profit **$33,690**
+- **2024:** Sales **$357,821** | Profit **$37,225**  *(peak)*
+
+**Interpretation:**  
+Sales grew steadily from **$226K → $358K** over four years. Profit **fell in 2022** (likely higher costs/discounts) but **rebounded strongly** in 2023 and reached a **new high in 2024**. This pattern suggests margin pressure in 2022 followed by improved pricing/cost control in later years.
+ 
 
 ### 2. Sales by Category (% Contribution)  
 **Visualization Used:** Stacked Bar Chart  
