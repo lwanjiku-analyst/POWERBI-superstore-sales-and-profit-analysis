@@ -39,7 +39,9 @@ Sales grew steadily from **$226K → $358K** over four years. Profit **fell in 2
 
 ## 2) % of Sales by Category (Yearly)
 
-**Visualization Used:** Stacked Bar Chart  
+**Visualization Used:** Stacked Bar Chart 
+
+**How did the sales contribution of each category (Furniture, Office Supplies, Technology) change between 2021 and 2024**
 
 ![% of sales by Category](sales_by_category.png)
 
