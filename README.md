@@ -23,6 +23,8 @@ The analysis demonstrates how raw data can be **cleaned, transformed, and visual
 ### 1. Sales & Profit by Year  
 **Visualization Used:** Line Chart  
 
+**How have overall sales and profit trends evolved year-over-year, and what does this indicate about business growth between 2021 and 2024?**
+
 ![Sales & Profit by Year](sales_profit_year.png)
 
 **What it shows (2021 → 2024):**
