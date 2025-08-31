@@ -6,13 +6,6 @@ This project explores **sales and profit trends** across categories and years, u
 
 The analysis demonstrates how raw data can be **cleaned, transformed, and visualized** to support business decision-making.  
 
-## Tools & Techniques Used  
-- **Power BI** for data transformation, modeling, and visualization  
-- **Area Charts** to display quarterly and yearly profit growth  
-- **Bar/Column Charts** to analyze category contributions and discount impacts  
-- **Map Visuals** for geographic profit insights  
-
-
 ##  Key Visuals & Findings  
 
 ###  Sales & Profit by Year 
